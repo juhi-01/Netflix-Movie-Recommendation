@@ -15,3 +15,6 @@ Movie Details - Data File:
 
 Python program file:
 Netflix - Movie Recommendation.ipynb
+
+Note:
+Data files are larger than 100mb and hence github is not allowing me to upload them here. 
